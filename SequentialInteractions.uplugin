@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SequentialInteractions",
+	"Description": "Supports the development of sequences of interactions between actors",
+	"Category": "Other",
+	"CreatedBy": "Evelyn Schwab",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SequentialInteractions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
